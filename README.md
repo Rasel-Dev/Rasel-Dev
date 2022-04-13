@@ -2,7 +2,7 @@
 <a href="https://www.facebook.com/RaselDevGet">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/rasel.git/">
+<a href="https://www.instagram.com/rasel_dev/">
   <img align="left" alt="InstraGram" width="22px" src="https://gist.githubusercontent.com/jemminger/91c69559f5ce1cc45cecc1f2614325c6/raw/809bb0a961444f293a1e65fa4ead494bd93a77c6/instagram.svg" />
 </a>
 
