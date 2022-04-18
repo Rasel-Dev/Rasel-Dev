@@ -10,6 +10,7 @@
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img  alt="TailwindCss" src="https://img.shields.io/badge/TailwindCss-0b1c30?style=for-the-badge&logo=Tailwindcss&logoColor=38bef8"/>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
@@ -19,8 +20,9 @@
 <div>
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img  alt="MySQL" src="https://img.shields.io/badge/Mysql-orange.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img  alt="PostgreSQL" src ="https://img.shields.io/badge/Postgresql-blue?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img  alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-white.svg?style=for-the-badge&logo=codeigniter&logoColor=de4712"/>
+  <img  alt="MySQL" src="https://img.shields.io/badge/Mysql-ea8d0f.svg?style=for-the-badge&logo=mysql&logoColor=3562a9"/>
+  <img  alt="PostgreSQL" src ="https://img.shields.io/badge/Postgresql-31648d?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img  alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>  
 </div>
 
@@ -28,10 +30,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/RaselDevGet">
-    <img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" />
+    <img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook-4064ac?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/rasel_dev/">
-    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-d62d77?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 <br />
