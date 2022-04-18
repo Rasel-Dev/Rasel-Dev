@@ -26,6 +26,13 @@
   <img  alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>  
 </div>
 
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rasel-Dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rasel-Dev&show_icons=true&theme=gotham" alt="Rasel-Dev" />
+
 ## Social Media
 
 <div id="badges" align="center">
@@ -36,14 +43,6 @@
     <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-d62d77?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<br />
-<br />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rasel-Dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rasel-Dev&show_icons=true&theme=gotham" alt="Rasel-Dev" />
-
 
 
 
