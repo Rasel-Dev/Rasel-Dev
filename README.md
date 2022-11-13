@@ -18,7 +18,7 @@
 ### Mobile
 
 <div>
-  <img alt="ReactNative" src="[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=ReactNative&logoColor=%2361DAFB](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)"/>
+  <img alt="ReactNative" src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
 ### Backend
