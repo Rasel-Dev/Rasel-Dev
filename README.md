@@ -26,7 +26,12 @@
 <div>
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img  alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-white.svg?style=for-the-badge&logo=codeigniter&logoColor=de4712"/>
+  <img  alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-white.svg?style=for-the-badge&logo=codeigniter&logoColor=de4712"/> 
+</div>
+
+### Database
+
+<div>
   <img  alt="MySQL" src="https://img.shields.io/badge/Mysql-ea8d0f.svg?style=for-the-badge&logo=mysql&logoColor=3562a9"/>
   <img  alt="PostgreSQL" src ="https://img.shields.io/badge/Postgresql-31648d?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img  alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>  
